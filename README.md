@@ -39,7 +39,7 @@ python wallpaper_gen.py
 ![cover](inputs/eighteen %23 paywall.jpg?raw=true)
 ![generated](outputs/eighteen %23 paywall.png?raw=true)
 
-![cover](inputs/Memory Reboot %23 VOJ & Narvent.jpg?raw=true)
-![generated](outputs/Memory Reboot %23 VOJ & Narvent.png?raw=true)
+![cover](./inputs/Memory Reboot %23 VOJ & Narvent.jpg?raw=true)
+![generated](./outputs/Memory Reboot %23 VOJ & Narvent.png?raw=true)
 
 Note that it is not perfect, but I tried to be as precise as possible.
