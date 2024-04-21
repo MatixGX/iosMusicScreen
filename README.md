@@ -18,6 +18,11 @@ Put your album covers in the inputs folder, remember the names of the images mus
 
 **<song_name> # <song_artist>.extension**
 
+Then run
+```powershell
+python wallpaper_gen.py
+```
+
 **The script takes the current time and day, album cover and generates a random progress bar.**
 
 **Supported file types:**
