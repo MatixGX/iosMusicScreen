@@ -34,7 +34,7 @@ python wallpaper_gen.py
 - bmp
 - tiff
 
-## Examples
+## Examples (you might need to zoom out)
 
 ![cover](https://raw.githubusercontent.com/MatixGX/iosMusicScreen/main/inputs/eighteen%20%23%20paywall.jpg)
 ![generated](https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/eighteen%20%23%20paywall.png?raw=true)
