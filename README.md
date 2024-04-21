@@ -36,11 +36,10 @@ python wallpaper_gen.py
 
 ## Examples
 
-[cover]([https://github.com/MatixGX/iosMusicScreen/blob/main/inputs/eighteen %23 paywall.jpg?raw=true](https://github.com/MatixGX/iosMusicScreen/blob/main/inputs/eighteen%20%23%20paywall.jpg?raw=true))
-[generated]([https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/eighteen %23 paywall.png?raw=true](https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/eighteen%20%23%20paywall.png?raw=true))
+![cover]([https://github.com/MatixGX/iosMusicScreen/blob/main/inputs/eighteen %23 paywall.jpg?raw=true](https://github.com/MatixGX/iosMusicScreen/blob/main/inputs/eighteen%20%23%20paywall.jpg?raw=true))
+![generated]([https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/eighteen %23 paywall.png?raw=true](https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/eighteen%20%23%20paywall.png?raw=true))
 
-[cover]([https://github.com/MatixGX/iosMusicScreen/blob/main/inputs/Memory Reboot %23 VOJ & Narvent.jpg?raw=true](https://github.com/MatixGX/iosMusicScreen/blob/main/inputs/Memory%20Reboot%20%23%20VOJ%20&%20Narvent.jpg?raw=true))
-
-[generated]([https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/Memory Reboot %23 VOJ & Narvent.png?raw=true](https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/Memory%20Reboot%20%23%20VOJ%20&%20Narvent.png?raw=true))
+![cover]([https://github.com/MatixGX/iosMusicScreen/blob/main/inputs/Memory Reboot %23 VOJ & Narvent.jpg?raw=true](https://github.com/MatixGX/iosMusicScreen/blob/main/inputs/Memory%20Reboot%20%23%20VOJ%20&%20Narvent.jpg?raw=true))
+![generated]([https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/Memory Reboot %23 VOJ & Narvent.png?raw=true](https://github.com/MatixGX/iosMusicScreen/blob/main/outputs/Memory%20Reboot%20%23%20VOJ%20&%20Narvent.png?raw=true))
 
 Note that it is not perfect, but I tried to be as precise as possible.
